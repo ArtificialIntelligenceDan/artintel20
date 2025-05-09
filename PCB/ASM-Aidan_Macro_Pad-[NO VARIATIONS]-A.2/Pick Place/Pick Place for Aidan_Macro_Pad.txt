@@ -1,0 +1,56 @@
+Altium Designer Pick and Place Locations
+C:\Users\aidan\AppData\Local\TempReleases\Snapshot\1\Assembly\Pick Place\Pick Place for Aidan_Macro_Pad.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/03/25
+Time:       23:12
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment      Layer       Footprint               Center-X(mm) Center-Y(mm) Rotation Description                                                                                               
+SW2        MX1A-11NW    TopLayer    CHRY-MX1A-11NW_V        32.0000      94.5400      0        "Keypad Switch, 1 Switches, SPST, Momentary, 0.01A, 12VDC, 0.78N, Solder Terminal, Through Hole-straight" 
+S2         482020514001 TopLayer    4820xx514001            72.0000      112.0000     90       "Rotary Position Encoder"                                                                                 
+S1         482020514001 TopLayer    4820xx514001            52.0000      112.0000     90       "Rotary Position Encoder"                                                                                 
+SW20       MX1A-11NW    TopLayer    CHRY-MX1A-11NW_V        72.0000      14.5400      0        "Keypad Switch, 1 Switches, SPST, Momentary, 0.01A, 12VDC, 0.78N, Solder Terminal, Through Hole-straight" 
+SW19       MX1A-11NW    TopLayer    CHRY-MX1A-11NW_V        52.0000      14.5400      0        "Keypad Switch, 1 Switches, SPST, Momentary, 0.01A, 12VDC, 0.78N, Solder Terminal, Through Hole-straight" 
+SW18       MX1A-11NW    TopLayer    CHRY-MX1A-11NW_V        32.0000      14.5400      0        "Keypad Switch, 1 Switches, SPST, Momentary, 0.01A, 12VDC, 0.78N, Solder Terminal, Through Hole-straight" 
+SW17       MX1A-11NW    TopLayer    CHRY-MX1A-11NW_V        12.0000      14.5400      0        "Keypad Switch, 1 Switches, SPST, Momentary, 0.01A, 12VDC, 0.78N, Solder Terminal, Through Hole-straight" 
+SW16       MX1A-11NW    TopLayer    CHRY-MX1A-11NW_V        72.0000      34.5400      0        "Keypad Switch, 1 Switches, SPST, Momentary, 0.01A, 12VDC, 0.78N, Solder Terminal, Through Hole-straight" 
+SW15       MX1A-11NW    TopLayer    CHRY-MX1A-11NW_V        52.0000      34.5400      0        "Keypad Switch, 1 Switches, SPST, Momentary, 0.01A, 12VDC, 0.78N, Solder Terminal, Through Hole-straight" 
+SW14       MX1A-11NW    TopLayer    CHRY-MX1A-11NW_V        32.0000      34.5400      0        "Keypad Switch, 1 Switches, SPST, Momentary, 0.01A, 12VDC, 0.78N, Solder Terminal, Through Hole-straight" 
+SW13       MX1A-11NW    TopLayer    CHRY-MX1A-11NW_V        12.0000      34.5400      0        "Keypad Switch, 1 Switches, SPST, Momentary, 0.01A, 12VDC, 0.78N, Solder Terminal, Through Hole-straight" 
+SW12       MX1A-11NW    TopLayer    CHRY-MX1A-11NW_V        72.0000      54.5400      0        "Keypad Switch, 1 Switches, SPST, Momentary, 0.01A, 12VDC, 0.78N, Solder Terminal, Through Hole-straight" 
+SW11       MX1A-11NW    TopLayer    CHRY-MX1A-11NW_V        52.0000      54.5400      0        "Keypad Switch, 1 Switches, SPST, Momentary, 0.01A, 12VDC, 0.78N, Solder Terminal, Through Hole-straight" 
+SW10       MX1A-11NW    TopLayer    CHRY-MX1A-11NW_V        32.0000      54.5400      0        "Keypad Switch, 1 Switches, SPST, Momentary, 0.01A, 12VDC, 0.78N, Solder Terminal, Through Hole-straight" 
+SW9        MX1A-11NW    TopLayer    CHRY-MX1A-11NW_V        12.0000      54.5400      0        "Keypad Switch, 1 Switches, SPST, Momentary, 0.01A, 12VDC, 0.78N, Solder Terminal, Through Hole-straight" 
+SW8        MX1A-11NW    TopLayer    CHRY-MX1A-11NW_V        72.0000      74.5400      0        "Keypad Switch, 1 Switches, SPST, Momentary, 0.01A, 12VDC, 0.78N, Solder Terminal, Through Hole-straight" 
+SW7        MX1A-11NW    TopLayer    CHRY-MX1A-11NW_V        52.0000      74.5400      0        "Keypad Switch, 1 Switches, SPST, Momentary, 0.01A, 12VDC, 0.78N, Solder Terminal, Through Hole-straight" 
+SW6        MX1A-11NW    TopLayer    CHRY-MX1A-11NW_V        32.0000      74.5400      0        "Keypad Switch, 1 Switches, SPST, Momentary, 0.01A, 12VDC, 0.78N, Solder Terminal, Through Hole-straight" 
+SW5        MX1A-11NW    TopLayer    CHRY-MX1A-11NW_V        12.0000      74.5400      0        "Keypad Switch, 1 Switches, SPST, Momentary, 0.01A, 12VDC, 0.78N, Solder Terminal, Through Hole-straight" 
+SW4        MX1A-11NW    TopLayer    CHRY-MX1A-11NW_V        72.0000      94.5400      0        "Keypad Switch, 1 Switches, SPST, Momentary, 0.01A, 12VDC, 0.78N, Solder Terminal, Through Hole-straight" 
+SW3        MX1A-11NW    TopLayer    CHRY-MX1A-11NW_V        52.0000      94.5400      0        "Keypad Switch, 1 Switches, SPST, Momentary, 0.01A, 12VDC, 0.78N, Solder Terminal, Through Hole-straight" 
+SW1        MX1A-11NW    TopLayer    CHRY-MX1A-11NW_V        12.0000      94.5400      0        "Keypad Switch, 1 Switches, SPST, Momentary, 0.01A, 12VDC, 0.78N, Solder Terminal, Through Hole-straight" 
+K1         KB2040       BottomLayer KB2040_Footprint        19.3800      111.6500     270      "Keyboard driver"                                                                                         
+D20        BAT54HT1G    TopLayer    ONSC-SOD-323-2-477-02_V 72.0000      22.0000      270      "Rectifier Diode, 1 Phase, 1 Element, 0.2A, 30V V(RRM), Silicon"                                          
+D19        BAT54HT1G    TopLayer    ONSC-SOD-323-2-477-02_V 52.0000      22.0000      270      "Rectifier Diode, 1 Phase, 1 Element, 0.2A, 30V V(RRM), Silicon"                                          
+D18        BAT54HT1G    TopLayer    ONSC-SOD-323-2-477-02_V 32.0000      22.0000      270      "Rectifier Diode, 1 Phase, 1 Element, 0.2A, 30V V(RRM), Silicon"                                          
+D17        BAT54HT1G    TopLayer    ONSC-SOD-323-2-477-02_V 12.0000      22.0000      270      "Rectifier Diode, 1 Phase, 1 Element, 0.2A, 30V V(RRM), Silicon"                                          
+D16        BAT54HT1G    TopLayer    ONSC-SOD-323-2-477-02_V 72.0000      42.0000      270      "Rectifier Diode, 1 Phase, 1 Element, 0.2A, 30V V(RRM), Silicon"                                          
+D15        BAT54HT1G    TopLayer    ONSC-SOD-323-2-477-02_V 52.0000      42.0000      270      "Rectifier Diode, 1 Phase, 1 Element, 0.2A, 30V V(RRM), Silicon"                                          
+D14        BAT54HT1G    TopLayer    ONSC-SOD-323-2-477-02_V 32.0000      42.0000      270      "Rectifier Diode, 1 Phase, 1 Element, 0.2A, 30V V(RRM), Silicon"                                          
+D13        BAT54HT1G    TopLayer    ONSC-SOD-323-2-477-02_V 12.0000      42.0000      270      "Rectifier Diode, 1 Phase, 1 Element, 0.2A, 30V V(RRM), Silicon"                                          
+D12        BAT54HT1G    TopLayer    ONSC-SOD-323-2-477-02_V 72.0000      62.0000      270      "Rectifier Diode, 1 Phase, 1 Element, 0.2A, 30V V(RRM), Silicon"                                          
+D11        BAT54HT1G    TopLayer    ONSC-SOD-323-2-477-02_V 52.0000      62.0000      270      "Rectifier Diode, 1 Phase, 1 Element, 0.2A, 30V V(RRM), Silicon"                                          
+D10        BAT54HT1G    TopLayer    ONSC-SOD-323-2-477-02_V 32.0000      61.8850      270      "Rectifier Diode, 1 Phase, 1 Element, 0.2A, 30V V(RRM), Silicon"                                          
+D9         BAT54HT1G    TopLayer    ONSC-SOD-323-2-477-02_V 12.0000      62.0000      270      "Rectifier Diode, 1 Phase, 1 Element, 0.2A, 30V V(RRM), Silicon"                                          
+D8         BAT54HT1G    TopLayer    ONSC-SOD-323-2-477-02_V 72.0000      82.0000      270      "Rectifier Diode, 1 Phase, 1 Element, 0.2A, 30V V(RRM), Silicon"                                          
+D7         BAT54HT1G    TopLayer    ONSC-SOD-323-2-477-02_V 52.0000      82.0000      270      "Rectifier Diode, 1 Phase, 1 Element, 0.2A, 30V V(RRM), Silicon"                                          
+D6         BAT54HT1G    TopLayer    ONSC-SOD-323-2-477-02_V 32.0000      82.0000      270      "Rectifier Diode, 1 Phase, 1 Element, 0.2A, 30V V(RRM), Silicon"                                          
+D5         BAT54HT1G    TopLayer    ONSC-SOD-323-2-477-02_V 12.0000      82.0000      270      "Rectifier Diode, 1 Phase, 1 Element, 0.2A, 30V V(RRM), Silicon"                                          
+D4         BAT54HT1G    TopLayer    ONSC-SOD-323-2-477-02_V 72.0000      102.0000     270      "Rectifier Diode, 1 Phase, 1 Element, 0.2A, 30V V(RRM), Silicon"                                          
+D3         BAT54HT1G    TopLayer    ONSC-SOD-323-2-477-02_V 52.0000      102.0000     270      "Rectifier Diode, 1 Phase, 1 Element, 0.2A, 30V V(RRM), Silicon"                                          
+D2         BAT54HT1G    TopLayer    ONSC-SOD-323-2-477-02_V 42.0000      92.1150      90       "Rectifier Diode, 1 Phase, 1 Element, 0.2A, 30V V(RRM), Silicon"                                          
+D1         BAT54HT1G    TopLayer    ONSC-SOD-323-2-477-02_V 22.0000      92.0000      270      "Rectifier Diode, 1 Phase, 1 Element, 0.2A, 30V V(RRM), Silicon"                                          

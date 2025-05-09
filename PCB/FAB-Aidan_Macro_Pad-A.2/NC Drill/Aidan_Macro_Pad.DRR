@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Aidan_Macro_Pad.PcbDoc   3/20/2025  11:11:13 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Aidan_Macro_Pad.TXT
+ASCII RectHoles File : Aidan_Macro_Pad-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.6mm (24mil)                                             Round             24        PTH        173.65mm (6.84inch)
+T2      1mm (39mil)                                               Round             10        PTH        91.00mm (3.58inch)
+T3      1.499mm (59mil)                                           Round             40        PTH        599.14mm (23.59inch)
+T4      1.8mm (71mil)                                             Rectangle         4         PTH        101.88mm (4.01inch)
+T5      2.4mm (94mil)                                             Round             4         PTH        237.50mm (9.35inch)
+T6      1.702mm (67mil)                                           Round             40        NPTH       549.84mm (21.65inch)
+T7      3.988mm (157mil)                                          Round             20        NPTH       420.00mm (16.54inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              142
+
+Total Processing Time (hh:mm:ss) : 00:00:00

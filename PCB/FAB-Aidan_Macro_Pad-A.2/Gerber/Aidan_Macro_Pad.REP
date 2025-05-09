@@ -1,0 +1,287 @@
+*************************************************************
+FileName = Aidan_Macro_Pad.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 15
+      File : Aidan_Macro_Pad.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Aidan_Macro_Pad.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : Aidan_Macro_Pad.GM11
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : Aidan_Macro_Pad.GM4
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : Aidan_Macro_Pad.GM3
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : Aidan_Macro_Pad.GM2
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Aidan_Macro_Pad.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Aidan_Macro_Pad.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Aidan_Macro_Pad.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Aidan_Macro_Pad.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Aidan_Macro_Pad.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Aidan_Macro_Pad.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Aidan_Macro_Pad.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Aidan_Macro_Pad.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Aidan_Macro_Pad.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Aidan_Macro_Pad.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Aidan_Macro_Pad.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Aidan_Macro_Pad.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Aidan_Macro_Pad.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Aidan_Macro_Pad.GM
+
+
+Used DCodes :
+    D33
+*************************************************************
+
