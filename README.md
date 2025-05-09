@@ -1,5 +1,5 @@
 # artintel20
-All files necessary for creating a 20-key, 2-knob macro keypad with a 0.91" OLED screen.
+A 20-key, 2-knob macro keypad with a 0.91" OLED screen.
 ## The PCB
 ![Image](https://github.com/user-attachments/assets/6f531048-c91b-4121-aa71-44d5bb3f3ad7)
 ## The Case
